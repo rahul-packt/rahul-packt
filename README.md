@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul-packt
+- 👋 Hi, I’m Rahul Limbachiya, currently working at Packt Publishing as a Technical Editor.
 - 👀 I’m interested in Machine Learning and NLP.
 - 🌱 I’m currently learning BERT and Advance Deep-learning.
 - 💞️ I’m looking to collaborate on NLP and Deep-learning 
